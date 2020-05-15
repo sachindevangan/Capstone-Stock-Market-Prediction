@@ -77,12 +77,12 @@ git clone
 
 1. This is an example of a date you can type and select the stock to test Machine Learning model performance
 
-![Sample Input](screenshots/sample_input.png)
+![Sample Input](screenshots/sample_input.PNG)
 
 2. After clicking **Try it Now**, you can see the predicted price and the actual price if available.
 
-![Sample Output](screenshots/sample_output.png)
+![Sample Output](screenshots/sample_output.PNG)
 
 3. The main page
 
-![Main Page](screenshots/main_page.png)
+![Main Page](screenshots/main_page.PNG)
