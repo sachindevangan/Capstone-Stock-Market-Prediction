@@ -1,0 +1,15 @@
+{%extends "index.html"%}
+{%block content%}
+<link rel="stylesheet" href={{cdn_css | safe}} type="text/css" />
+<script type="text/javascript" src={{cdn_js | safe}}></script>
+
+<h1>Predicted :</h1>
+<h1>{{predicted | safe}} </h1>
+<h1>Actual :</h1>
+<h1>{{actual | safe}}</h1>
+<h1>Error :</h1>
+<h1>{{error | safe}}</h1>
+</div>
+{{script1 | safe}}
+{{div1 | safe}}
+{%endblock%}
